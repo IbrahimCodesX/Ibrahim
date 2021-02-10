@@ -1,13 +1,14 @@
 body {
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
 font-family: 'Josefin Sans', sans-serif;
-  background-image: url('/img/background.jpg');
+  background-color: Black;
 }
 
 div.fixed {
   position: fixed;
   width: 50%;
   bottom: 10px;
+    border: 3px solid lime;
 } 
 
 h1 {
