@@ -9,9 +9,13 @@ div.fixed {
   position: fixed;
   width: 50%;
   bottom: 10px;
-    border: 3px solid lime;
+    border: 10px solid lime;
 } 
 
 h1 {
   font-size: 60px;
+}
+
+p {
+font-size:40px;
 }
