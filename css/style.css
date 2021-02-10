@@ -8,7 +8,7 @@ font-family: 'Josefin Sans', sans-serif;
 }
 
 div.fixed {
-  position: fixed;
+  position: center;
   width: 50%;
   bottom: 10px;
 } 
