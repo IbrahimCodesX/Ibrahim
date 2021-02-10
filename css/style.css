@@ -2,7 +2,7 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 font-family: 'Ubuntu Mono', monospace;
   background-color: Black;
-  color: White;
+  color: Lime;
     border: 2px solid lime;
   border-radius: 8px;
 }
