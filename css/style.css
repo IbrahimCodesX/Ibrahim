@@ -12,6 +12,9 @@ h1 {
   font-size: 60px;
 }
 
+h1 {
+  font-size: 30px;
+}
 
 a:link {
   color: green;
