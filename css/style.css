@@ -13,7 +13,7 @@ h1 {
 }
 
 /* DEMO-SPECIFIC STYLES */
-h1 {
+p {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid lime; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
