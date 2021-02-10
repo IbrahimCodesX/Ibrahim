@@ -9,7 +9,6 @@ div.fixed {
   position: fixed;
   width: 50%;
   bottom: 10px;
-    border: 10px solid lime;
 } 
 
 h1 {
@@ -17,5 +16,23 @@ h1 {
 }
 
 p {
-font-size:40px;
+font-size:50px;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: lime;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkgreen;
+}
+
+/* selected link */
+a:active {
+  color: white;
 }
