@@ -1,6 +1,6 @@
 body {
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
-font-family: 'Josefin Sans', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+font-family: 'Ubuntu Mono', monospace;
   background-color: Black;
   color: White;
     border: 2px solid lime;
@@ -15,7 +15,7 @@ h1 {
 /* DEMO-SPECIFIC STYLES */
 h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
+  border-right: .15em solid lime; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
