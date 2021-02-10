@@ -3,6 +3,8 @@ body {
 font-family: 'Josefin Sans', sans-serif;
   background-color: Black;
   color: White;
+    border: 2px solid lime;
+  border-radius: 8px;
 }
 
 div.fixed {
