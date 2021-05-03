@@ -7,6 +7,10 @@ font-family: 'Ubuntu Mono', monospace;
   border-radius: 8px;
 }
 
+.rick {
+    margin-right: auto;
+}
+
 h1 {
   font-size: 90px;
 }
